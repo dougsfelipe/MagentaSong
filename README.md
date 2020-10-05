@@ -1,1 +1,1 @@
-# BirdMIDI
+# Magenta.js
